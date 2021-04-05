@@ -6,7 +6,7 @@
 
 ## This angular application communicates with a PYTHON FLASK REST BACKEND APPLICATION for purpose of machine Learning recommendation
 
-## The angular application commucates thrpough REST API.
+## The angular application commucates through REST API.
 
 ## Link to the PYTHON FLASK BACK END APPLICATION that does MACHINE LEARNING recommendation based on AGE and GENDER - https://github.com/gontsezuka/python-flask-basic-
 
